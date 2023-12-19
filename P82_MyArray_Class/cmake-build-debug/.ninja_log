@@ -1,0 +1,8 @@
+# ninja log v5
+0	262	7242629876502492	CMakeFiles/untitled.dir/main.cpp.obj	cba8d24d4f0beac2
+0	202	7242630474742290	build.ninja	24b6cedd9c62735e
+11	265	7242629876522362	CMakeFiles/untitled.dir/MyArray.cpp.obj	139cc46783cef6aa
+265	558	7242629879379144	untitled.exe	182176be6a81d73b
+1	194	7242630474742290	build.ninja	24b6cedd9c62735e
+3	256	7242630708099673	CMakeFiles/untitled.dir/main.cpp.obj	cba8d24d4f0beac2
+257	435	7242630709849663	untitled.exe	182176be6a81d73b
